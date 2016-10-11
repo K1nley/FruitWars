@@ -1,0 +1,6 @@
+c:\users\k1nl1-\documents\visual studio 2013\Projects\RealFruitWars\RealFruitWars\bin\Debug\RealFruitWars.exe.config
+c:\users\k1nl1-\documents\visual studio 2013\Projects\RealFruitWars\RealFruitWars\bin\Debug\RealFruitWars.exe
+c:\users\k1nl1-\documents\visual studio 2013\Projects\RealFruitWars\RealFruitWars\bin\Debug\RealFruitWars.pdb
+c:\users\k1nl1-\documents\visual studio 2013\Projects\RealFruitWars\RealFruitWars\obj\Debug\RealFruitWars.exe
+c:\users\k1nl1-\documents\visual studio 2013\Projects\RealFruitWars\RealFruitWars\obj\Debug\RealFruitWars.pdb
+c:\users\k1nl1-\documents\visual studio 2013\Projects\RealFruitWars\RealFruitWars\obj\Debug\RealFruitWars.csprojResolveAssemblyReference.cache
